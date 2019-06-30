@@ -1,6 +1,6 @@
 import React, { useState, createContext  } from 'react'
 
-import Graph from '../components/Graph'
+import Graph from '../molecues/Graph'
 import Form from '../components/Form'
 
 export const ElementsContext = createContext();
